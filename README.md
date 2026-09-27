@@ -1,3 +1,4 @@
+<img width="1440" height="654" alt="image" src="https://github.com/user-attachments/assets/178f97f4-1da3-4085-96e4-41209e90ecd7" />
 # Sharodshava — Kolkata Durga Puja Interactive Guide & Planner
 
 An immersive, high-performance web application celebrating Kolkata Durga Puja with interactive pandal maps, day-by-day ritual guides, cultural timelines, and authentic food trails.
